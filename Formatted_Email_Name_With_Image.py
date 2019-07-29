@@ -103,7 +103,7 @@ class MessageUser():
 
 obj = MessageUser()
 
-
+#Paste output from CSV_Parse_object_create.py here
 
 
 obj.get_details()
