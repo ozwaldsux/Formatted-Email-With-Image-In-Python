@@ -73,4 +73,5 @@ Disclaimer: gmail may stop the script from running depending on how many emails 
 ## Authors
 Ozwaldsux 
 
-
+## Contributers
+Big thanks to python Codex for his tutorials and Coding is for girls for hers.
