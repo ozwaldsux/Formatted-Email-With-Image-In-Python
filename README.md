@@ -70,6 +70,8 @@ Now just run the script and watch you're mail fly out!
 
 Disclaimer: gmail may stop the script from running depending on how many emails you send out as there is a limit per day. I've seen a few different metrics as to how many can be sent per minute but it's pretty unclear. However you can always start again from where the script was stopped by looking in your sent mail to see the last mail sent and run it again. If you're including images, bear in mind that gmail bandwidth limit is 300mb. The intent of this script is not to spam people so please use it responsibly.
 
+Pls Fork.
+
 ## Authors
 Ozwaldsux 
 
